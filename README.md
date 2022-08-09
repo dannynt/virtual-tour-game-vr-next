@@ -19,7 +19,7 @@ In order to have all of the art in game, follow these steps:
 2. Extract the .zip file.
 3. Clone the project files.
 4. Find `Assets/Art` directory.
-5. Add the extracted files from `step 1` to the `Assets/Art` directory.
+5. Add the extracted files from `step 2` to the `Assets/Art` directory.
 6. Open the project with `Unity 2020.3`.
 
 In case of any questions or problems, contact daniel.nael@ut.ee
