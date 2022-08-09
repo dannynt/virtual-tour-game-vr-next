@@ -11,7 +11,7 @@ Master's thesis <br> Daniel Nael <br> Software Engineering <br> University of Ta
 
 ### Files
 - [Art assets](https://drive.google.com/file/d/1NFUZPWBfpLm6qczW5oqYPR-c2yjoMnxt/view?usp=sharing)
-- [Accompanying Files](https://drive.google.com/file/d/1oZoOxJjKaMwP-dJx1b3sUrWcLBBh5JPe/view?usp=sharing)
+- [Accompanying Files for the thesis](https://drive.google.com/file/d/1oZoOxJjKaMwP-dJx1b3sUrWcLBBh5JPe/view?usp=sharing)
 
 ### Adding the art assets
 
