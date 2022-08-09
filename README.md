@@ -1,6 +1,16 @@
 # Virtual Tour Game VR version
-## Master's thesis 
-### by Daniel Nael
+
+University of Tartu
+
+Software Engineering
+
+Master's thesis 
+
+Daniel Nael
+
+2022
+
+
 ---
 
 > *Due to the project size this repository only features some of the assets of the game. Get the remaining files for the project form the **Files** section below and see the tutorial on how to add remaining assets to the game.*
