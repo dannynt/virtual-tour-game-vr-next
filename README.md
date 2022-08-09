@@ -18,7 +18,7 @@ Daniel Nael
 > `This project was made with Unity 2020.3.33f1`
 
 ### Files
-- [Art assets](https://drive.google.com/drive/folders/1ATETCDi3IJk6DMDgwaHDZk3xVs5OgZPs?usp=sharing)
+- [Art assets](https://drive.google.com/file/d/1NFUZPWBfpLm6qczW5oqYPR-c2yjoMnxt/view?usp=sharing)
 - [Accompanying Files](https://drive.google.com/file/d/1oZoOxJjKaMwP-dJx1b3sUrWcLBBh5JPe/view?usp=sharing)
 
 ### Adding the art assets
