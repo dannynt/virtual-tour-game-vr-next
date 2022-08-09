@@ -1,15 +1,7 @@
 # Virtual Tour Game VR version
 
-University of Tartu
 
-Software Engineering
-
-Master's thesis 
-
-Daniel Nael
-
-2022
-
+Master's thesis <br> Daniel Nael <br> Software Engineering <br> University of Tartu <br> 2022
 
 ---
 
